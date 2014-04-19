@@ -1,5 +1,5 @@
 {
-  "name": "express-view-cache",
+  "name": "express-static-view",
   "version": "0.4.1",
   "description": "A Express middleware pre-render and cache a specified view",
   "main": "./lib",
